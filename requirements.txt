@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-core
+python-dotenv
+langchain-groq
+langchain-gemini
+streamlit
+
