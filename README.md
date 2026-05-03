@@ -72,7 +72,7 @@ A conversational AI chatbot with a sidebar, streaming responses, and multi-turn 
 ## ▶️ Run the App
 
 ```bash
-streamlit run chatbot.py
+streamlit run Langchain/chatbot.py
 ```
 
 Opens automatically at `http://localhost:8501`
