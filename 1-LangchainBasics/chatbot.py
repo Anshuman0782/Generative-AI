@@ -114,7 +114,7 @@ if user_input:
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:gray; font-size:0.8rem;'>"
-    "Built with ❤️ using Streamlit · LangChain · Groq"
+    "Built with ❤️ by Anshuman | Powered by Groq AI | Made with Streamlit & LangChain"
     "</div>",
     unsafe_allow_html=True,
 )
